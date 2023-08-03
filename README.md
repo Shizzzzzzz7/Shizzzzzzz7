@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on The Anonymous Developer<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Blockchain Development Resources<br>🌱 I’m currently learning Blockchain Development<br>💬 Ask me about Development & Business<br>⚡ Fun fact 
+🔭 I’m currently working on The Anonymous Developer<br>👯 I’m looking to collaborate on Open Source.<br>🤝 I’m looking for help with Blockchain Development Resources<br>🌱 I’m currently learning Blockchain Development<br>💬 Ask me about Development & Business<br>⚡ Fun fact 
 
 
 ## 🌐 Socials:
